@@ -9,7 +9,6 @@ int main(){
     scanf("%lf",&x);
     printf("\n escolha uma das opções abaixo:");
    
-
     do{
         
     printf("\n===1-converter graus para radianos.===\n");
