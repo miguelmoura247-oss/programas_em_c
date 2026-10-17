@@ -1,6 +1,8 @@
 Exercício: Arquivos em C
 
-Projeto simples para gravar e ler dados em arquivo binário usando struct.
+Projeto simples para gravar e ler dados em arquivo binário usando:
+
+Struct.
 
 Arquivos
 
